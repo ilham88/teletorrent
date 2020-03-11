@@ -74,6 +74,8 @@ MongoDB is being used to store downloads information, and it's currently deploye
 
 Teletorrent should be deployed and ready work, just make sure to add to `config/transmission.js` your transmission client information to be able to access it.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Local Installation
 First, you need to create a telegram bot using [BotFather](https://telegram.me/botfather):
 
